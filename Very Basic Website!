@@ -1,0 +1,32 @@
+<!DOCTYPE html> 
+<!-- Zach Taylor-->
+<!--Developing HTML skills-->
+<html>
+
+    <head>                                                 <!-- Declaration of a head (window tab) in HTML-->
+           <!-- This header is what will be displayed on the tab window not on the acutual webpage-->
+        <title>Who is Zach Taylor?</title>
+    </head>                                                <!-- End declaration of a head (Window tab) in HTML -->
+
+    <body>
+        <!--In HTML you have different tags to work with-->
+        <!-- As we can see we have different header tags -->
+        <h2> About: Zachary Lee Taylor</h2>
+    
+        <p>
+        Zach Taylor is a Computer Science Junior at MTSU looking for Computer Science related internship.<br>
+        <br>
+        Mr.Taylor grew up in a small town known as the heart of Tennesse called Hartsville.<br>
+        <br>
+        He has programming skills in C++, C, Java, and HTML.<br>
+        <br>
+        Mr.Taylor is also the Secretary of the MTSU ACM.
+        <p>
+        
+    </body>
+</html>
+
+<!-- Notes about HTML syntax below (HTML uses tags)-->
+<!-- You must create a html tag to start working (as seen in lines 4 and 31)-->
+<!-- Creating headers with the <h#> tag note: When you increase the number it will decrease the size of the font for that header-->
+<!-- The <br> can be thought as a newline character when dealing with the <p> (paragraph tag)-->
